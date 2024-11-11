@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #2a9d8f;
+    color: white;
+  }
+  .header nav a {
+    margin: 0 1rem;
+    color: white;
+    text-decoration: none;
+  }
+  .header nav a:hover {
+    text-decoration: underline;
+  }
+  
